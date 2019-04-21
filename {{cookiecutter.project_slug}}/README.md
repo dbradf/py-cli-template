@@ -1,4 +1,4 @@
-# {{cookiecooker.project_slug}}
+# {{cookiecutter.project_slug}}
 
 
 ## Testing
