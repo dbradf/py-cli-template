@@ -35,7 +35,6 @@ setup(
         'Operating System :: POSIX',
         'Operating System :: Microsoft :: Windows',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy',
@@ -43,10 +42,10 @@ setup(
     install_requires=[
         'Click==7.0',
         'PyYAML==5.1',
-        'requests==2.21.0',
+        'requests==2.22.0',
     ],
     entry_points='''
         [console_scripts]
-        cli={{cookiecutter.project_slug}}.cli.main:main
+        cli={{cookiecutter.project_slug}}.cli:main
     ''',
 )
