@@ -6,9 +6,7 @@ A [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/index.html) templ
 
 This branch is for creating machine learning projects.
 
-###
-
-To create:
+### To create
 
 ```
 $ cookiecutter https://github.com/dbradf/py-cli-template --checkout ml-project
