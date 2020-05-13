@@ -13,6 +13,9 @@ cli = '{{cookiecutter.project_slug}}.cli:main'
 [tool.poetry.dependencies]
 python = "^3.7"
 Click = "^7.0"
+numpy = "^1.18.4"
+pandas = "^1.0.3"
+scikit-learn = "^0.23.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.3"
