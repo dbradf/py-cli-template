@@ -5,5 +5,5 @@ A [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/index.html) templ
 ### To create
 
 ```
-$ cookiecutter https://github.com/dbradf/py-cli-template --checkout ml-project
+$ cookiecutter https://github.com/dbradf/py-cli-template
 ```
