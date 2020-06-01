@@ -9,5 +9,5 @@ This branch is for creating machine learning projects.
 ### To create
 
 ```
-$ cookiecutter https://github.com/dbradf/py-cli-template --checkout ml-project
+$ cookiecutter https://github.com/dbradf/py-project-template --checkout ml-project
 ```
