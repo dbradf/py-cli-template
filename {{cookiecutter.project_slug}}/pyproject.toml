@@ -15,14 +15,15 @@ python = "^3.7"
 Click = "^7.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.3"
-pytest-black = "^0.3.7"
+pytest = "^6"
+pytest-black = "^0.3"
 pytest-cov = "^2.8"
 pytest-flake8 = "^1.0"
 pytest-mypy = "^0.4"
 pytest-pydocstyle = "^2.0"
-pytest-sugar = "^0.9.2"
-pytest-isort = "^0.3.1"
+pytest-sugar = "^0.9"
+pytest-isort = "^0.3"
+black = "^20.8b1"
 
 [tool.black]
 line-length = 100
